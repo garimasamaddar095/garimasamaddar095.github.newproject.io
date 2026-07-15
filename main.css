@@ -459,6 +459,8 @@
 .menu-nav-ul-li {
   transform: translateX(100vw);
   transition: all 0.5s ease-in-out;
+  font-family:"Outfit", sans-serif;
+  font-size:20px;
 }
 .menu-nav-ul-li.open {
   transform: translateX(0);
