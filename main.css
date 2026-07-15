@@ -459,8 +459,6 @@
 .menu-nav-ul-li {
   transform: translateX(100vw);
   transition: all 0.5s ease-in-out;
-  font-family:"Outfit", sans-serif;
-  font-size:20px;
 }
 .menu-nav-ul-li.open {
   transform: translateX(0);
@@ -469,8 +467,9 @@
   color: rgba(216, 111, 26, 0.671);
 }
 .menu-nav-ul-li-link {
+  font-family:"Outfit", sans-serif;
+  font-size:20px;
   display: inline-block;
-  font-size: 2rem;
   text-transform: uppercase;
   padding: 2rem 0;
   font-weight: 300;
