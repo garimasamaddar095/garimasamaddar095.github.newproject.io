@@ -467,6 +467,8 @@
   color: rgba(216, 111, 26, 0.671);
 }
 .menu-nav-ul-li-link {
+  font-family:"Outfit", sans-serif;
+  font-size:20px;
   display: inline-block;
   text-transform: uppercase;
   padding: 2rem 0;
